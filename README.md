@@ -12,8 +12,7 @@ Our Team is currently looking to develop a software that alleviates the hassle o
 - https://calendarific.com/api-documentation
 
 ## Screen shot of tool for trying API
-![Screenshot 2023-09-29 at 7.52.06 PM.png](..%2F..%2FDesktop%2FScreenshot%202023-09-29%20at%207.52.06%20PM.png)
-
+https://i.postimg.cc/zBJ4bL6q/Screenshot-2023-09-29-at-7-52-06-PM.png
 ## Example of running our code
 `joe.requestLeave('10/13/2023')`
 
